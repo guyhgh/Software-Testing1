@@ -1,2 +1,2 @@
 # Software-Testing1
-Testing the aplication
+It is a technique of detecting and identify the defects in software aplication
